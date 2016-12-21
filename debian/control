@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-exploration-3d
+Section: misc
+Priority: extra
+Maintainer: Bona <baishi.bona@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-move-base-msgs, ros-indigo-octomap-msgs, ros-indigo-octomap-ros, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-std-msgs
+Homepage: http://wiki.ros.org/turtlebot_exploration_3d
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-exploration-3d
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-move-base-msgs, ros-indigo-turtlebot-navigation
+Description: Autonomous Exploration package for a Turtulebot equiped with RGBD Sensor(Kinect, Xtion)
