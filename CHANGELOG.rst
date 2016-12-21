@@ -2,6 +2,11 @@
 Changelog for package turtlebot_exploration_3d
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2016-12-20)
+------------------
+* remove laser_geometry from dep
+* Contributors: baishi.bona@gmail.com
+
 0.0.3 (2016-12-20)
 ------------------
 
