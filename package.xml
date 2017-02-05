@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>turtlebot_exploration_3d</name>
-  <version>0.0.8</version>
+  <version>0.0.9</version>
   <description>Autonomous Exploration package for a Turtulebot equiped with RGBD Sensor(Kinect, Xtion)</description>
 
   <maintainer email="baishi.bona@gmail.com">Bona</maintainer>
@@ -31,6 +31,7 @@
   <run_depend>visualization_msgs</run_depend>
   <run_depend>actionlib</run_depend>
   <run_depend>turtlebot_navigation</run_depend>
+  <run_depend>octomap_rviz_plugins</run_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
