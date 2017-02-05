@@ -1,0 +1,78 @@
+ros-indigo-turtlebot-exploration-3d (0.0.9-0saucy) saucy; urgency=high
+
+  * Merge branch 'master' of https://github.com/RobustFieldAutonomyLab/turtlebot_exploration_3d
+  * minor change to screen output
+  * update installation guide, dependency
+  * update installation guide, dependency
+  * update launch file, no need for scan_to_pcl
+  * Contributors: mailto:baishi.bona@gmail.com, baishibona
+  * update launch file, no need for scan_to_pcl
+  * Contributors: mailto:baishi.bona@gmail.com
+
+ -- Bona <baishi.bona@gmail.com>  Sat, 04 Feb 2017 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.8-0saucy) saucy; urgency=high
+
+  * update install list
+  * Contributors: mailto:baishi.bona@gmail.com
+
+ -- Bona <baishi.bona@gmail.com>  Tue, 03 Jan 2017 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.7-0saucy) saucy; urgency=high
+
+
+
+ -- Bona <baishi.bona@gmail.com>  Thu, 29 Dec 2016 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.6-0saucy) saucy; urgency=high
+
+  * add install, and launch
+  * update parameters, bug false alarm cleared
+  * fix bug, n--num_of_samples
+  * Contributors: mailto:baishi.bona@gmail.com
+
+ -- Bona <baishi.bona@gmail.com>  Thu, 29 Dec 2016 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.5-0saucy) saucy; urgency=high
+
+  * adding visualization_msgs to package for bloom build
+  * Contributors: mailto:baishi.bona@gmail.com
+
+ -- Bona <baishi.bona@gmail.com>  Wed, 21 Dec 2016 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.4-0saucy) saucy; urgency=high
+
+  * remove laser_geometry from dep
+  * Contributors: mailto:baishi.bona@gmail.com
+
+ -- Bona <baishi.bona@gmail.com>  Tue, 20 Dec 2016 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.3-0saucy) saucy; urgency=high
+
+
+
+ -- Bona <baishi.bona@gmail.com>  Tue, 20 Dec 2016 05:00:00 -0000
+
+ros-indigo-turtlebot-exploration-3d (0.0.2-0saucy) saucy; urgency=high
+
+  * prepare release
+  * prepare for release-packagexml
+  * prepare for release
+  * update resolution to 0.1, as well as 15 evaluations per step
+  * typo in pdf
+  * update bayesian approach
+  * fix typo @OctomapOccupied_cubelist_3d
+  * update ROS code style..
+  * update tutorial
+  * update tutorial
+  * update readme.md
+  * update license
+  * update tutorial typo
+  * candidate check
+  * udpate changelog
+  * first commit, ver 0.0.1
+  * Contributors: Bona, Shawn
+
+ -- Bona <baishi.bona@gmail.com>  Tue, 20 Dec 2016 05:00:00 -0000
+
+
